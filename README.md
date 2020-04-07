@@ -1,3 +1,3 @@
 YouSub
 ========
-A fork of [youtube.external.subtitle](https://github.com/siloor/youtube.external.subtitle), supports loading subtitles from html elements declaratively.
+A fork of [youtube.external.subtitle](https://github.com/siloor/youtube.external.subtitle), supports loading subtitles from html elements declaratively. See `index.html` for demo.
